@@ -3,7 +3,7 @@
   <img alt="github stats" height="250px" src="https://github-readme-stats.vercel.app/api?username=teraz1112&show_icons=ture" />
 </p>
 
-<table height="250px">
+<table>
   <tr>
     <td>Front</td>
     <td>Back</td>
