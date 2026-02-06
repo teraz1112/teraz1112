@@ -1,5 +1,5 @@
 <p align="left"> 
-  <img alt="Top Langs" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teraz1112&show_icons=true&exclude_repo=MNIST,AIorReal,who-is-Author" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teraz1112&layout=compact&card_width=420&langs_count=6&bg_color=0d1117&title_color=00eaff&text_color=a8e1ff&hide_border=false" height="160" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
