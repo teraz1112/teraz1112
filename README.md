@@ -105,6 +105,8 @@ ROS / MoveIt / Real Robot Deployment
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teraz1112)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## Philosophy
